@@ -18,3 +18,5 @@
     <library name="com.samsung.android.nfc.mpos"
             file="/system/framework/com.samsung.android.nfc.mpos.jar" />
 </permissions>
+com.samsung.device 
+com.sec.android.mdm
